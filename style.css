@@ -76,7 +76,11 @@ header{
   }
 
 
-
+h1{
+  background-color: antiquewhite;
+  text-align: center;
+  color: rgba(0, 55, 255, 0.697);
+}
 
 
 
